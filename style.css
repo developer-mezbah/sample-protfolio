@@ -4,9 +4,7 @@
 .head{
     color: rgb(238, 82, 155)
 }
-h3{
-    color: rgb(117, 248, 117)
-}
+
 p{
     text-align: justify;
     width: 80%;
@@ -25,6 +23,5 @@ p{
     display: inline;
     float: right;
     object-fit: contain;
-    border: 2px solid red;
     padding: 10px;
 }
